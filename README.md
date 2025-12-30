@@ -1,2 +1,1 @@
-# Web-Dev
-DevOps Lab – Source Code Management
+Web-Dev Project - Initial Commit
